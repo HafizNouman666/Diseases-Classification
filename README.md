@@ -9,7 +9,7 @@ Potato Plant Diseases Classification is an innovative project aimed at revolutio
 # Key Features
 Accurate Classification: The project utilizes state-of-the-art convolutional neural networks (CNNs) trained on a comprehensive dataset to achieve high accuracy in classifying potato plant diseases.
 
-# FastAPI Backend: A robust backend server built with FastAPI provides a seamless and efficient API for uploading images and obtaining real-time disease predictions.
+# FastAPI Backend
 
 User-Friendly Interface: The web application interface is intuitive and user-friendly, allowing users to effortlessly interact with the system and obtain actionable insights.
 
