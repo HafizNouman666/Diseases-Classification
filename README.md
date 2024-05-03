@@ -1,4 +1,4 @@
-# Plant-Diseases-Classification
+# Diseases-Classification
 
 
 # Potato Plant Diseases Classification
